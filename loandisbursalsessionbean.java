@@ -1,5 +1,4 @@
 import java.util.Scanner;  
-import java.io.inner;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
